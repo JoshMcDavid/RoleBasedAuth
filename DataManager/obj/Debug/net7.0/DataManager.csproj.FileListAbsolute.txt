@@ -1,0 +1,11 @@
+C:\Users\16479\source\repos\RoleBasedAuth\DataManager\bin\Debug\net7.0\DataManager.deps.json
+C:\Users\16479\source\repos\RoleBasedAuth\DataManager\bin\Debug\net7.0\DataManager.dll
+C:\Users\16479\source\repos\RoleBasedAuth\DataManager\bin\Debug\net7.0\DataManager.pdb
+C:\Users\16479\source\repos\RoleBasedAuth\DataManager\obj\Debug\net7.0\DataManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\16479\source\repos\RoleBasedAuth\DataManager\obj\Debug\net7.0\DataManager.AssemblyInfoInputs.cache
+C:\Users\16479\source\repos\RoleBasedAuth\DataManager\obj\Debug\net7.0\DataManager.AssemblyInfo.cs
+C:\Users\16479\source\repos\RoleBasedAuth\DataManager\obj\Debug\net7.0\DataManager.csproj.CoreCompileInputs.cache
+C:\Users\16479\source\repos\RoleBasedAuth\DataManager\obj\Debug\net7.0\DataManager.dll
+C:\Users\16479\source\repos\RoleBasedAuth\DataManager\obj\Debug\net7.0\refint\DataManager.dll
+C:\Users\16479\source\repos\RoleBasedAuth\DataManager\obj\Debug\net7.0\DataManager.pdb
+C:\Users\16479\source\repos\RoleBasedAuth\DataManager\obj\Debug\net7.0\ref\DataManager.dll
